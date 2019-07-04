@@ -1,5 +1,9 @@
 # Aprendizaje Supervisado 
 
+## Repo de las clases
+
+[Acá](https://github.com/DiploDatos/AprendizajeSupervisado/tree/master/archive/2018).  
+
 ## Notas de clase
 
 Dados un conjunto de datos _anotados_ (con resultados) aprender un modelo que va a predecir el estado de nuevos datos no anotados.  
