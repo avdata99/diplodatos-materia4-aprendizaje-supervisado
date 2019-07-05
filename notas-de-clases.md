@@ -19,3 +19,9 @@ Otra vez, separar los datos anotados en:
 
 Normalizar y estandarizar (uno es poner todos los valores en el mismo rango y el otro es ponerlos específicamente entre 0 y 1) todos los valores es útil por cuetiones internas de muchos algoritmos (por ejemplo el descenso por gradiente se agiliza en muchos casos).  
 
+Ver la ley de Zipf (las cosas humanas tienen distribucion exponencial): ej la palabra mas usada de un texto aparece el doble de veces de la segunda y la tercera la mitad que la segunda.  
+
+## Algoritmo del perceptron. 
+
+Propuesta en 1958. Son la base de las redes neuronales.  
+
