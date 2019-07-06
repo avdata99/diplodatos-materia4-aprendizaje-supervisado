@@ -25,3 +25,12 @@ Ver la ley de Zipf (las cosas humanas tienen distribucion exponencial): ej la pa
 
 Propuesta en 1958. Son la base de las redes neuronales.  
 
+## Ejemplo de SVM
+
+Link al kernel de Clasificacion SVM con tarjetas de crédito: https://www.kaggle.com/pierra/credit-card-dataset-svm-classification  
+Jugar con este que es un ejemplo real.  
+ 
+## Sobre el práctico de esta materia
+
+Es una competencia en Kaggle.
+
